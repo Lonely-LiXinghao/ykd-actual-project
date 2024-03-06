@@ -1,4 +1,4 @@
 package cn.ykd.actualproject.service;
 
-public class TaskService {
+public interface TaskService {
 }
